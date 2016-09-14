@@ -1,2 +1,2 @@
 # First-repository
-# [] yes
+#6 this is the lowest font setting
